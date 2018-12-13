@@ -35,7 +35,7 @@
     "@babel/runtime": "^7.0.0",
     "adbkit": "^2.4.1",
     "appium-adb": "^6.29.1",
-    "appium-android-driver": "^4.0.0",
+    "appium-android-driver": "^4.7.1",
     "appium-base-driver": "^3.10.0",
     "appium-support": "^2.24.0",
     "appium-uiautomator2-server": "^2.6.0",

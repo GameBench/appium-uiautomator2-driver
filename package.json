@@ -32,7 +32,7 @@
     "build/lib"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.2.0",
     "adbkit": "^2.4.1",
     "appium-adb": "^7.0.0",
     "appium-android-driver": "^4.0.0",
